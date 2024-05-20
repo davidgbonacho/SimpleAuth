@@ -14,10 +14,10 @@ Note that your endpoint must be run on a secure server.
 
 
 ## Files
-- simpleauth.php with the API response procedure
-- check.php with an example of API request from PHP app
-- img/logo.svg: only important images are here 
-- util/gen_bearer.php with a bearer code generation example
+- simpleauth.php with the API response procedure.
+- check.php with an example of API request from PHP app.
+- img/logo.svg: only important images are here.
+- util/gen_bearer.php with a bearer code generation example.
 
 
 ![](img/logo.svg)
