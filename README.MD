@@ -1,7 +1,8 @@
 
 # OAuth 2.0 style 
 This is a simple example of how to create a simple API that responds and authorizes access by validating a (static) bearer token following the OAauth 2.0 standard (but without using an OAuth server). I also attach an example of how to send a request to this API.
-This code is only recommended for applications where only 1 recognized client must access the API (since the Bearer is static). For this reason, the use of an OAuth 2.0 server is not necessary (since no users must be managed).
+
+`This code is only recommended for applications where only 1 recognized client` must access the API (since the Bearer is static). For this reason, the use of an OAuth 2.0 server is not necessary (since no users must be managed).
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
