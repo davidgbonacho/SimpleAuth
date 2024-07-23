@@ -1,7 +1,7 @@
 
 # Examples
 
-There is a lot of applications with this requirements, like:
+There is a lot of applications with this requirements, where no LDAP or OAuth2.0 systems are required (since they are not designed for many users, but only for one or several acquaintances), but API-based system with external client must be securized:
 
 1. Ticket validation and redemption system for events: A single client application used by event staff to verify and redeem tickets, accessing an API that determines whether a ticket is valid or not.
 2. Inventory control system for a small store: A single device (tablet or PC) used by employees to update and query stock.
@@ -20,11 +20,11 @@ There is a lot of applications with this requirements, like:
 15. Scheduling tool for a small airline: A centralized application to manage crews and flights.
 16. Energy monitoring system for a solar plant: A console that collects production data and efficiency metrics from solar panels.
 
-... and so many more
+... and so many more. 
 
 # Ejemplos
 
-Hay muchas aplicaciones con estos requisitos, como:
+Hay muchas aplicaciones con estos requisitos, donde no se requieren sistemas LDAP u OAuth2.0 (ya que no están diseñados para muchos usuarios, sino solo para uno o varios conocidos), pero un sistema de API con cliente externo siempre debe estar securizado:
 
 1. Sistema de validación y canjeo de entradas: Un único dispositivo móvil realiza peticiones a una API para verificar y canjear entradas para acceder a un evento o recinto.
 2. Sistema de control de inventario para una pequeña tienda: Un único dispositivo (tablet o PC) usado por los empleados para actualizar y consultar el stock.
