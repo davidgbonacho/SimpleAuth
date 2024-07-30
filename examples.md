@@ -43,7 +43,7 @@ Hay muchas aplicaciones con estos requisitos, donde no se requieren sistemas LDA
 15. Herramienta de programación de horarios para una pequeña aerolínea: Una aplicación centralizada para gestionar tripulaciones y vuelos.
 16. Sistema de monitoreo de energía para una planta solar: Una consola que recoge datos de producción y eficiencia de paneles solares.
 
-... y muchas más
+... y muchas más 
 
 ![](img/logo.svg)
 ---
