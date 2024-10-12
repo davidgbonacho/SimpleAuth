@@ -20,7 +20,7 @@ There is a lot of applications with this requirements, where no LDAP or OAuth2.0
 15. Scheduling tool for a small airline: A centralized application to manage crews and flights.
 16. Energy monitoring system for a solar plant: A console that collects production data and efficiency metrics from solar panels.
 
-... and so many more. 
+and so many more....
 
 # Ejemplos
 
@@ -43,7 +43,7 @@ Hay muchas aplicaciones con estos requisitos, donde no se requieren sistemas LDA
 15. Herramienta de programación de horarios para una pequeña aerolínea: Una aplicación centralizada para gestionar tripulaciones y vuelos.
 16. Sistema de monitoreo de energía para una planta solar: Una consola que recoge datos de producción y eficiencia de paneles solares.
 
-... y muchas más 
+y muchas más....
 
 ![](img/logo.svg)
 ---
