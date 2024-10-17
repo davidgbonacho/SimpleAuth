@@ -3,7 +3,6 @@
 /**
 *
 *  Simple Auth 
-*
 *  @author David G. Bonacho
 *
 */
