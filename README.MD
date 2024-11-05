@@ -4,7 +4,7 @@ This is a simple example of how to create a simple API that responds and authori
 
 `This code is only for applications where only 1 recognized client` must access the API (since the Bearer is static). For this reason, the use of an OAuth 2.0 server is not necessary (since no users must be managed). 
 
-There is a lot of applications with this requirements, (see [Examples](examples.md))
+There is a lot of applications with this requirements: (see [Examples](examples.md))
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
