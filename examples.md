@@ -1,4 +1,3 @@
-
 # Examples
 
 There is a lot of applications with this requirements, where no LDAP or OAuth2.0 systems are required (since they are not designed for many users, but only for one or several acquaintances), but API-based system with external client must be securized:

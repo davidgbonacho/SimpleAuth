@@ -23,6 +23,8 @@ Note that your endpoint must be run on a secure server.
 - util/gen_bearer.php with a bearer code generation example.
 
 
+[Text in Spanish here](README_ES.MD)
+
 ![](img/logo.svg)
 ---
 `título:` OAuth2.0 [`SimPIL`] 04/17/24\
