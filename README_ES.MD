@@ -19,6 +19,8 @@ Ten en cuenta que tu punto final debe ejecutarse en un servidor seguro.
 - img/logo.svg: solo las imágenes importantes están aquí.
 - util/gen_bearer.php con un ejemplo de generación de código Bearer.
 
+[Texto en inglés aquí](README.MD)
+
 ![](img/logo.svg)
 
 ---
