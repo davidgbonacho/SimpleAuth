@@ -1,6 +1,6 @@
 # Ejemplos
 
-Existen muchas aplicaciones con estos requisitos, donde no se requieren sistemas LDAP u OAuth2.0 (ya que no están diseñados para muchos usuarios, sino solo para uno o varios conocidos), pero un sistema basado en API con cliente externo debe estar siempre securizado:
+Existen muchas aplicaciones con estos requisitos, donde no se requieren sistemas LDAP u OAuth2.0 (ya que no están diseñados para muchos usuarios, sino solo para uno o varios conocidos), pero un sistema basado en API con cliente externo debe estar siempre securizado;
 
 1. Sistema de validación y canjeo de entradas para eventos: Una única aplicación cliente utilizada por el personal del evento para verificar y canjear entradas, accediendo a una API que determina si una entrada es válida o no.
 2. Sistema de control de inventario para una pequeña tienda: Un único dispositivo (tablet o PC) usado por los empleados para actualizar y consultar el stock.
