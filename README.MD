@@ -23,7 +23,7 @@ Note that your endpoint must be run on a secure server.
 - util/gen_bearer.php with a bearer code generation example.
 
 
-[Text in Spanish here](README_ES.MD)
+[Texto en español aquí](README_ES.MD)
 
 ![](img/logo.svg)
 ---
