@@ -4,6 +4,7 @@
  * check access Simple Auth API DGB
  */
 
+ 
 // Access token
 $bearer_token = '{your 64 char token}';
 
