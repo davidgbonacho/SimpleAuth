@@ -2,9 +2,9 @@
 
 /**
  * check access Simple Auth API DGB
+ * 2025
  */
 
- 
 // Access token
 $bearer_token = '{your 64 char token}';
 
